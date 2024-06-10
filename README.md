@@ -19,5 +19,5 @@ node index.js
 then u will  see the output of your browser.
 
 <br>
-<h2>Login Page</h2>
-![image](https://github.com/Indervirsingh22/WOOBLE/assets/111226508/abe8dcc0-eb89-4255-b015-d5e0053b9d25)
+<h2>Login Page </h2> 
+![image](https://github.com/Indervirsingh22/WOOBLE/assets/111226508/8eaba430-2f8e-4359-84e2-43a94ef05415)
